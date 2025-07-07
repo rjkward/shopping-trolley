@@ -18,7 +18,7 @@ const store = new MockDatastore(
     },
     { id: "camp_ball_nut_2", price: 70, category: "pro/active" },
     { id: "camp_ball_nut_3", price: 70, category: "pro/active" },
-    { id: "fixe_alien_black_NOS", price: 200, category: "pro/active" },
+    { id: "cch_alien_black_NOS", price: 200, category: "pro/active" },
     { id: "totem_cam_0.5", price: 90, category: "pro/active" },
     { id: "coyote_mountain_works_samson", price: 200, category: "pro/active" },
     { id: "camp_tricam_pink", price: 20, category: "pro/passive" },
